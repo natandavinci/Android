@@ -15,6 +15,7 @@
 
 - Responsividade
 - Posicionamento
+- HTML Semântico
 - Fontes
 - Cores
 - Listas
